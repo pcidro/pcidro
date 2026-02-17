@@ -13,8 +13,8 @@ Desenvolvedor Front-End focado em criar interfaces com React e TypeScript. Gosto
 
 ## 🚀 Projetos em Destaque
 
-### 🧠 Psicóloga Giulia Rivolta (Projeto Real)
-Site profissional desenvolvido para uma psicóloga clínica, focado em conversão e presença digital.
+### 🧠 Psicóloga Giulia Rivolta
+Site profissional desenvolvido para uma psicóloga clínica, focado em conversão e presença digital. Cliente real. 
 - **Tech stack:** HTML5, CSS3, JavaScript (Vanilla).
 - [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🔗 Ver Projeto Online](https://psicologagiuliarivolta.com.br/)
 
