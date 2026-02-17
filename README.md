@@ -44,3 +44,6 @@ Buscador de filmes com sistema de favoritos.
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pcidro&theme=tokyonight" alt="Streak Stats" />
 </div>
+
+
+<img src="https://metrics.lecoq.io/pcidro?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" />
