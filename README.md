@@ -47,5 +47,5 @@ Buscador de filmes com sistema de favoritos.
 
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pcidro&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,firebase,git,vscode" />
 </div>
