@@ -20,12 +20,12 @@ Site profissional desenvolvido para uma psicóloga clínica, focado em conversã
 
 ### 🎮 GameVault
 Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados.
-- **Tech stack:** React, Firebase (Auth/Firestore), TypeScript.
+- **Tech stack:** React, Firebase (Auth/Firestore).
 - [📂 Repositório](https://github.com/pcidro/Games-Vault) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
 
 ### 🎬 MovieSearch
 Buscador de filmes consumindo a API do TMDB com sistema de favoritos.
-- **Tech stack:** React, Context API, Hooks.
+- **Tech stack:** React
 - [📂 Repositório](https://github.com/pcidro/movieSearch) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
 
 ---
