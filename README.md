@@ -51,22 +51,39 @@ Atualmente focado em aprimorar minhas habilidades em **React** e **TypeScript** 
 <br/>
 <br/>
 
+## 📊 Projetos em Destaque
+
+### 🎮 GameVault
+Plataforma para catalogar e ranquear jogos favoritos.
+- **Tech stack:** React, Firebase (Auth/Firestore).
+- [Repositório aqui] | 
+
+- ### 🌩️ Weather App
+Aplicação de previsão do tempo em tempo real consumindo API externa.
+- **Tech stack:** React
+- [Repositório aqui] |
+
+### 🎬 MovieSearch (TMDB API)
+Buscador de filmes com sistema de favoritos e autenticação.
+- **Tech stack:** React, Context API, Firebase.
+- [Repositório aqui]
+
+- # 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-707110179/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulohcidro@gmail.com)
+
+---
+
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=pcidro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcidro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcidro&theme=tokyonight&layout=compact&langs_count=7" 
   />
-
-</p>
+</div>
