@@ -18,7 +18,7 @@ Site profissional desenvolvido para uma psicóloga clínica, focado em conversã
 - **Tech stack:** HTML5, CSS3, JavaScript (Vanilla).
 - [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🔗 Ver Projeto Online](https://psicologagiuliarivolta.com.br/)
 
-### 🎮 GameVault
+### 🎮 GamesDB
 Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados.
 - **Tech stack:** React, Firebase (Auth/Firestore).
 - [📂 Repositório](https://github.com/pcidro/Games-Vault) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
