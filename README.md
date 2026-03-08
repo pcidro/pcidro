@@ -16,17 +16,18 @@ Desenvolvedor Front-End focado em criar interfaces com React e TypeScript. Gosto
 ### 🧠 Psicóloga Giulia Rivolta
 Site profissional desenvolvido para uma psicóloga clínica, focado em conversão e presença digital. Cliente real. 
 - **Tech stack:** HTML5, CSS3, JavaScript (Vanilla).
-- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🔗 Ver Projeto Online](https://psicologagiuliarivolta.com.br/)
+- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy] (https://psicologagiuliarivolta.com.br/)
 
 ### 🎮 GamesDB
 Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados.
-- **Tech stack:** React, Firebase (Auth/Firestore).
+- **Tech stack:** React, Firebase (Auth).
 - [📂 Repositório](https://github.com/pcidro/Games-Vault) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
 
-### 🎬 MovieSearch
-Buscador de filmes consumindo a API do TMDB com sistema de favoritos.
-- **Tech stack:** React
-- [📂 Repositório](https://github.com/pcidro/movieSearch) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
+### 👟 Orby E-commerce
+Aplicação de e-commerce de sneakers com listagem de produtos, busca, página de detalhes e carrinho de compras.
+
+- **Tech stack:** React, Typescript Firebase(Auth)
+- [📂 Repositório](https://github.com/pcidro/Orby-E-Commerce) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
 
 ---
 
