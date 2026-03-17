@@ -27,7 +27,7 @@ Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados
 Aplicação de e-commerce de sneakers com listagem de produtos, busca, página de detalhes e carrinho de compras.
 
 - **Tech stack:** React, Typescript Firebase(Auth)
-- [📂 Repositório](https://github.com/pcidro/Orby-E-Commerce) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
+- [📂 Repositório](https://github.com/pcidro/Orby-E-Commerce) | [🚀 Ver Deploy](https://orbyshoes.netlify.app/#/)
 
 ---
 
