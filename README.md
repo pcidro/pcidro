@@ -21,7 +21,7 @@ Site profissional desenvolvido para uma psicóloga clínica, focado em conversã
 ### 🎮 GamesDB
 Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados.
 - **Tech stack:** React, Firebase (Auth).
-- [📂 Repositório](https://github.com/pcidro/Games-Vault) | [🚀 Ver Deploy](https://link-do-deploy.vercel.app)
+- [📂 Repositório](https://github.com/pcidro/GamesDB) | [🚀 Ver Deploy](https://gamesdeb.netlify.app/)
 
 ### 👟 Orby E-commerce
 Aplicação de e-commerce de sneakers com listagem de produtos, busca, página de detalhes e carrinho de compras.
