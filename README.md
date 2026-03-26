@@ -16,10 +16,10 @@ Desenvolvedor Front-End focado em criar interfaces com React e TypeScript. Gosto
 ### 🧠 Psicóloga Giulia Rivolta
 Site profissional desenvolvido para uma psicóloga clínica, focado em conversão e presença digital. Cliente real. 
 - **Tech stack:** HTML5, CSS3, JavaScript (Vanilla).
-- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy] (https://psicologagiuliarivolta.com.br/)
+- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy](https://psicologagiuliarivolta.com.br/)
 
 ### 🎮 GamesDB
-Plataforma para catalogar e ranquear jogos favoritos, com persistência de dados.
+Plataforma para catalogar e ranquear jogos favoritos
 - **Tech stack:** React, Firebase (Auth).
 - [📂 Repositório](https://github.com/pcidro/GamesDB) | [🚀 Ver Deploy](https://gamesdeb.netlify.app/)
 
