@@ -11,23 +11,34 @@ Desenvolvedor Front-End focado em criar interfaces com React e TypeScript. Gosto
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🧠 Psicóloga Giulia Rivolta
-Site profissional desenvolvido para uma psicóloga clínica, focado em conversão e presença digital. Cliente real. 
-- **Tech stack:** HTML5, CSS3, JavaScript (Vanilla).
-- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy](https://psicologagiuliarivolta.com.br/)
-
-### 🎮 GamesDB
-Plataforma para catalogar e ranquear jogos favoritos
-- **Tech stack:** React, Firebase (Auth).
-- [📂 Repositório](https://github.com/pcidro/GamesDB) | [🚀 Ver Deploy](https://gamesdeb.netlify.app/)
+##  Projetos em Destaque
 
 ### 👟 Orby E-commerce
-Aplicação de e-commerce de sneakers com listagem de produtos, busca, página de detalhes e carrinho de compras.
+E-commerce completo de sneakers com catálogo de produtos, busca, página de detalhes, carrinho de compras e autenticação de usuários.
 
-- **Tech stack:** React, Typescript Firebase(Auth)
+- **Tech stack:** React, TypeScript e Firebase e Firestore 
 - [📂 Repositório](https://github.com/pcidro/Orby-E-Commerce) | [🚀 Ver Deploy](https://orbyshoes.netlify.app/#/)
+
+### 💈 Barber Schedule
+Sistema de agendamento para barbearias com seleção de data e horário, validações de disponibilidade e organização automática dos atendimentos por período.
+
+- **Tech stack:** React, TypeScript, Tailwind CSS, Context API, Custom Hooks e LocalStorage.
+- [📂 Repositório](https://github.com/pcidro/Sistema-de-agendamentos) | [🚀 Ver Deploy](https://barbersschedule.netlify.app/)
+
+### 🎮 GamesDB
+Plataforma para catalogar, organizar e ranquear jogos favoritos com autenticação de usuários.
+
+- **Tech stack:** React, TypeScript e Firebase (Authentication).
+- [📂 Repositório](https://github.com/pcidro/GamesDB) | [🚀 Ver Deploy](https://gamesdeb.netlify.app/)
+
+### 🧠 Psicóloga Giulia Rivolta
+Site profissional desenvolvido para uma psicóloga clínica, com foco em conversão, SEO e presença digital. Projeto desenvolvido para uma cliente real.
+
+- **Tech stack:** HTML5, CSS3 e JavaScript
+- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy](https://psicologagiuliarivolta.com.br/)
+
+
+
 
 ---
 
