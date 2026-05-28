@@ -25,7 +25,7 @@ Site profissional desenvolvido para uma psicanalista clínica, com foco em conve
 
 * **Tech stack:** Next.js, React, TypeScript, Tailwind CSS e Cosmic CMS
 * [📂 Repositório](https://github.com/pcidro/AnaVeigaPsico) | [🚀 Ver Deploy](https://www.anaveigapsicanalista.com.br/)
-* 
+  
 
 ### 💈 Barber Schedule
 Sistema de agendamento para barbearias com seleção de data e horário, validações de disponibilidade e organização automática dos atendimentos por período.
