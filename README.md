@@ -19,6 +19,14 @@ E-commerce completo de sneakers com catálogo de produtos, busca, página de det
 - **Tech stack:** React, TypeScript e Firebase e Firestore 
 - [📂 Repositório](https://github.com/pcidro/Orby-E-Commerce) | [🚀 Ver Deploy](https://orbyshoes.netlify.app/#/)
 
+### 🧠 Ana Veiga Psicanalista
+
+Site profissional desenvolvido para uma psicanalista clínica, com foco em conversão, SEO e presença digital. Projeto desenvolvido para uma cliente real, incluindo integração com CMS para gerenciamento de conteúdo e exibição dinâmica de depoimentos do Google.
+
+* **Tech stack:** Next.js, React, TypeScript, Tailwind CSS e Cosmic CMS
+* [📂 Repositório](https://github.com/pcidro/AnaVeigaPsico) | [🚀 Ver Deploy](https://www.anaveigapsicanalista.com.br/)
+* 
+
 ### 💈 Barber Schedule
 Sistema de agendamento para barbearias com seleção de data e horário, validações de disponibilidade e organização automática dos atendimentos por período.
 
@@ -31,11 +39,8 @@ Plataforma para catalogar, organizar e ranquear jogos favoritos com autenticaç�
 - **Tech stack:** React, TypeScript e Firebase (Authentication).
 - [📂 Repositório](https://github.com/pcidro/GamesDB) | [🚀 Ver Deploy](https://gamesdeb.netlify.app/)
 
-### 🧠 Psicóloga Giulia Rivolta
-Site profissional desenvolvido para uma psicóloga clínica, com foco em conversão, SEO e presença digital. Projeto desenvolvido para uma cliente real.
 
-- **Tech stack:** HTML5, CSS3 e JavaScript
-- [📂 Repositório](https://github.com/pcidro/psigiuliarivolta) | [🚀 Ver Deploy](https://psicologagiuliarivolta.com.br/)
+
 
 
 
