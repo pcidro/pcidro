@@ -33,6 +33,14 @@ Sistema de agendamento para barbearias com seleção de data e horário, valida�
 - **Tech stack:** React, TypeScript, Tailwind CSS, Context API, Custom Hooks e LocalStorage.
 - [📂 Repositório](https://github.com/pcidro/Sistema-de-agendamentos) | [🚀 Ver Deploy](https://barbersschedule.netlify.app/)
 
+- ### 🐶 Dogs Next
+
+Rede social para cachorros desenvolvida com Next.js, com autenticação, feed de fotos, perfis públicos, comentários, upload de publicações e área logada para gerenciamento das próprias fotos.
+
+* **Tech stack:** Next.js, React, TypeScript, CSS Modules, Victory e API externa.
+* [📂 Repositório](https://github.com/pcidro/Dogs-Next) | [🚀 Ver Deploy](https://dogs-next-dun.vercel.app/)
+
+
 ### 🎮 GamesDB
 Plataforma para catalogar, organizar e ranquear jogos favoritos com autenticação de usuários.
 
