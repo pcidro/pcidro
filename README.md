@@ -30,8 +30,8 @@ Site profissional desenvolvido para uma psicanalista clínica, com foco em conve
 ### 💈 Barber Schedule
 Sistema de agendamento para barbearias com seleção de data e horário, validações de disponibilidade e organização automática dos atendimentos por período.
 
-- **Tech stack:** React, TypeScript, Tailwind CSS, Context API, Custom Hooks e LocalStorage.
-- [📂 Repositório](https://github.com/pcidro/Sistema-de-agendamentos) | [🚀 Ver Deploy](https://barbersschedule.netlify.app/)
+- **Tech stack:** Next.Js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Context API, Custom Hooks 
+- [📂 Repositório](https://github.com/pcidro/BarberSchedule) | [🚀 Ver Deploy](https://barberschedule-wine.vercel.app/)
 
 - ### 🐶 Dogs Next
 
