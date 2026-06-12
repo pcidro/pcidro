@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Paulo Cidro
 
-**`Desenvolvedor Front End`**
+**`Web Developer`**
 
-Desenvolvedor Front-End focado em criar interfaces com React e TypeScript. Gosto de transformar ideias em código limpo, sempre cuidando da performance e da acessibilidade do que eu entrego. Estou sempre aprimorando meu workflow para construir aplicações que sejam fáceis de usar e, principalmente, de manter.
+Web Developer focado em criar interfaces com React e TypeScript. Gosto de transformar ideias em código limpo, sempre cuidando da performance e da acessibilidade do que eu entrego. Estou sempre aprimorando meu workflow para construir aplicações que sejam fáceis de usar e, principalmente, de manter.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">
