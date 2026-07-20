@@ -13,6 +13,14 @@ Web Developer focado em criar interfaces com React e TypeScript. Gosto de transf
 
 ##  Projetos em Destaque
 
+### 🍕 Sistema de Pizzaria
+
+Sistema Full Stack para gerenciamento de pizzaria, com autenticação, controle de acesso, cadastro de categorias e produtos com imagens, além de painel da cozinha para visualizar, detalhar e finalizar pedidos.
+
+Tech stack: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Node.js, Express, Prisma, PostgreSQL, JWT, Zod e Cloudinary.
+
+- [📂 Front end ](https://github.com/pcidro/PizzariaFront) | - [📂 Back End ](https://github.com/pcidro/Pizzaria) 
+
 ### 👟 Orby E-commerce
 E-commerce completo de sneakers com catálogo de produtos, busca, página de detalhes, carrinho de compras e autenticação de usuários.
 
