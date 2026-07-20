@@ -2,7 +2,11 @@
 
 **`Web Developer`**
 
-Web Developer focado em criar interfaces com React e TypeScript. Gosto de transformar ideias em código limpo, sempre cuidando da performance e da acessibilidade do que eu entrego. Estou sempre aprimorando meu workflow para construir aplicações que sejam fáceis de usar e, principalmente, de manter.
+Olá! Sou Paulo, Web Developer apaixonado por transformar ideias em aplicações web que unem boa experiência do usuário, código limpo e soluções bem estruturadas.
+
+Tenho experiência prática desenvolvendo projetos reais e freelancers, trabalhando com React, Next.js, TypeScript, integração de APIs, autenticação e banco de dados.
+
+Estou sempre aprimorando meu workflow e explorando novas tecnologias para construir aplicações performáticas, escaláveis e fáceis de manter, buscando entregar uma excelente experiência tanto para os usuários quanto para outros desenvolvedores.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">
