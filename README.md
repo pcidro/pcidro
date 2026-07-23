@@ -10,7 +10,7 @@ Estou sempre aprimorando meu workflow e explorando novas tecnologias para constr
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,firebase,git" />
 </div>
 
 ---
