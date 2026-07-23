@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Olá! Sou Paulo, Web Developer apaixonado por transformar ideias em aplicações web que unem boa experiência do usuário, código limpo e soluções bem estruturadas.
+Olá! Sou Paulo, Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações web que unem boa experiência do usuário, código limpo e soluções bem estruturadas.
 
 Tenho experiência prática desenvolvendo projetos reais e freelancers, trabalhando com React, Next.js, TypeScript, integração de APIs, autenticação e banco de dados.
 
